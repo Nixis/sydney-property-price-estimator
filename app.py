@@ -560,8 +560,9 @@ with st.sidebar:
 
 <div class="sidebar-label">TYPICAL MODEL ERROR</div>
 <div class="sidebar-value">
-Test MAE: approximately AUD 482,509.<br>
-This is the average absolute prediction error across the evaluation data, not an error range for an individual property.
+Held-out test MAE: approximately AUD 404,830.<br>
+Five-fold cross-validation MAE: approximately AUD 363,758.<br>
+These values represent average absolute errors across evaluation properties, not an error range for an individual property.
 </div>
 
 <div class="sidebar-label">PRICE CURRENCY</div>
