@@ -1,8 +1,6 @@
 # Sydney Property Price Estimator
 
-A machine-learning project developed for the Deakin University **SIT720 Machine Learning – 8.1 Distinction Task**.
-
-The project predicts residential sale prices for properties in **Mosman, Parramatta and Liverpool, NSW**. It covers the complete machine-learning workflow, including manual data collection, exploratory analysis, feature engineering, model comparison, prediction-failure analysis and deployment through Streamlit.
+A machine-learning project developed to predicts residential sale prices for properties in **Mosman, Parramatta and Liverpool, NSW**. It covers the complete machine-learning workflow, including manual data collection, exploratory analysis, feature engineering, model comparison, prediction-failure analysis and deployment through Streamlit.
 
 ## Live Application
 
