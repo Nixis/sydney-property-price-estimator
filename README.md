@@ -24,7 +24,7 @@ The model uses property characteristics, location, sale method, distance to the 
 | `optimised_random_forest_pipeline.joblib` | Saved model and preprocessing pipeline |
 | `requirements.txt` | Required Python packages |
 | `sydney_property_sales_engineered_final.csv` | Final dataset with engineered features |
-| `8.1D-Code.ipynb` | Data analysis and model-development notebook |
+| `8.1D-Code-clean.ipynb` | Data analysis and model-development notebook |
 
 ## Run Locally
 
